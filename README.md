@@ -11,7 +11,12 @@ My answers to Project Euler
 </ol>
 
 </li>
-  
+
+<li> Question 5
+<ol>
+<li>https://www.tcc.fl.edu/Current/Academics/LearningCommons/First%20Floor%20Documents/DivisibilityRules.pdf</li>
+</ol>
+</li>
 
 </ul>
 

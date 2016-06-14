@@ -79,8 +79,7 @@ bool Miller(ll p,int iteration)
 int main()
 {
     int iteration = 5;
-    ll num;
-    cout<<"Enter integer to test primality: ";
+
     for( int i = 4; i < 100000000; i++)
     {
         ll j = 600851475143/i;
